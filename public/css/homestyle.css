@@ -1,0 +1,23 @@
+.detail-box1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.product_title,
+.product_price {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.product_title h6,
+.product_price h6 {
+    margin: 0;
+}
+
+.product_title {
+    margin-bottom: 5px;
+}
+.product_price {
+    margin-bottom: 10px;
+}
